@@ -1,0 +1,9 @@
+*.log
+*.swp
+.cache/
+.vim/
+.viminfo
+.ssh/
+.bash*
+.profile
+
